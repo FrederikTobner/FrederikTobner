@@ -18,7 +18,6 @@
 
 I'm a software engineer located in Ulm, Germany.
 
-
 - 🔭 I’m currently working on [Cellox](https://github.com/FrederikTobner/Cellox), a simple scripting language written in C
 - 🌱 I’m currently learning how compiler construction works
 - ⌨️ I like system programming languages, especially C and Zig
@@ -45,7 +44,7 @@ I'm a software engineer located in Ulm, Germany.
 </div>
 
 
-### :fire: My Github Stats
+### :chart_with_upwards_trend: Github Stats
 [![GitHub Trophys](https://github-profile-trophy.vercel.app/?username=FrederikTobner&theme=dracula)
 
 [![Frederik's Github Stats](https://github-readme-stats.vercel.app/api?username=FrederikTobner&count_private=true&theme=dracula&show_icons=true%card_width=10px)](https://github.com/FrederikTobner)
