@@ -1,5 +1,5 @@
  <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&color=%47BBF7FF&height=40&duration=3000&pause=1000&center=true&lines=Hey%2C+there;Welcome+to+my+github+profile">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&color=%47BBF7FF&height=40&duration=3000&pause=1000&center=true&lines=Hey%2C+there;Welcome+to+my+profile">
 </p>
 
 <div id="header" align="center">
