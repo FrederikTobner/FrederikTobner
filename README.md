@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="200px"/>
-</div>
-
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="60px"/>
@@ -32,6 +28,8 @@
 
 
 ### :fire: My Github Stats :
-[![Frederik's Github Stats](https://github-readme-stats.vercel.app/api?username=FrederikTobner&count_private=true&theme=dracula&show_icons=true)](https://github.com/FrederikTobner)
+[![Frederik's Github Stats](https://github-readme-stats.vercel.app/api?username=FrederikTobner&count_private=true&theme=dracula&show_icons=true%card_width=10px)](https://github.com/FrederikTobner)
+
+
 [![GitHub Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=FrederikTobner&theme=dark&background=282a36)](https://git.io/streak-stats)
 
