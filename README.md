@@ -8,4 +8,5 @@
 </h1>
 
 - 🔭 I’m currently working on [Cellox](https://github.com/FrederikTobner/Cellox), a simple scripting language written in C
-- 🌱 I’m currently learning how compiler custruction works
+- 🌱 I’m currently learning how compiler construction works
+- ⌨️ I like system programming languages, especially C and Zig
