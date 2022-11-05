@@ -1,8 +1,12 @@
-<h2 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="60px"/>
-</h2>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="200"/>
+</div>
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=""/>  
+</div>
 
+
+### Hi there 👋
 
 I'm a software engineer located in Ulm, Germany.
 
@@ -34,10 +38,9 @@ I'm a software engineer located in Ulm, Germany.
 
 
 ### :fire: My Github Stats
+[![GitHub Trophys](https://github-profile-trophy.vercel.app/?username=FrederikTobner&theme=dracula)
+
 [![Frederik's Github Stats](https://github-readme-stats.vercel.app/api?username=FrederikTobner&count_private=true&theme=dracula&show_icons=true%card_width=10px)](https://github.com/FrederikTobner)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrederikTobner&theme=dracula)](https://git.io/streak-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikTobner&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
