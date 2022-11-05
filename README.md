@@ -1,12 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="200"/>
 </div>
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt=""/>  
-</div>
+<p align="center">
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+software+engineer;located+in+Ulm+-+Germany"></a>
+</p>
 
 
-### Hi there 👋
+### About me
 
 I'm a software engineer located in Ulm, Germany.
 
