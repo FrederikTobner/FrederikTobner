@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/age-26-blue">
 <a href="mailto:f.tobner@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f.tobner@gmail.com" alt="mailto:f.tobner@gmail.com">
-  </a>
 </p>
 
 
@@ -50,3 +49,5 @@ I'm a software engineer located in Ulm, Germany.
 [![Frederik's Github Stats](https://github-readme-stats.vercel.app/api?username=FrederikTobner&count_private=true&theme=dracula&show_icons=true%card_width=10px)](https://github.com/FrederikTobner)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikTobner&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=FrederikTobner&theme=dracula)](https://github.com/FrederikTobner/github-readme-activity-graph)
