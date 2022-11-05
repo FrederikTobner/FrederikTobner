@@ -4,7 +4,7 @@
 
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="50px"/>
 </h1>
 
 - 🔭 I’m currently working on [Cellox](https://github.com/FrederikTobner/Cellox), a simple scripting language written in C
