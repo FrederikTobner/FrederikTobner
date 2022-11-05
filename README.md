@@ -1,5 +1,7 @@
- <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&color=%47BBF7FF&height=40&duration=3000&pause=1000&center=true&lines=Hey%2C+there++%F0%9F%91%8B;Welcome+to+my+profile">
+ <h1 align="center">Hi:wave:, I'm Frederik <width="30px"></h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=5C00F7&height=40&duration=3000&pause=1000&center=true&lines=web+developer;programming+language+developer;vscode+enthusiast">
 </p>
 
 <div id="header" align="center">
