@@ -1,7 +1,11 @@
-<h1 align="center">
+<h2 align="center">
   Hey there
   <img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width="60px"/>
-</h1>
+</h2>
+
+
+I'm a software engineer located in Ulm, Germany.
+
 
 - 🔭 I’m currently working on [Cellox](https://github.com/FrederikTobner/Cellox), a simple scripting language written in C
 - 🌱 I’m currently learning how compiler construction works
@@ -32,6 +36,8 @@
 ### :fire: My Github Stats :
 [![Frederik's Github Stats](https://github-readme-stats.vercel.app/api?username=FrederikTobner&count_private=true&theme=dracula&show_icons=true%card_width=10px)](https://github.com/FrederikTobner)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrederikTobner&theme=dracula)](https://git.io/streak-stats)
 
-[![GitHub Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=FrederikTobner&theme=dark&background=282a36)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikTobner&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
