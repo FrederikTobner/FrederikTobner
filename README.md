@@ -1,9 +1,5 @@
  <h1 align="center">Hi:wave:, I'm Frederik <width="30px"></h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=5C00F7&height=40&duration=3000&pause=1000&center=true&lines=web+developer;programming+language+developer;vscode+enthusiast">
-</p>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="200"/>
 </div>
@@ -44,6 +40,10 @@ I'm a software engineer located in Ulm, Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+ ### My Interests
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=5C00F7&height=40&duration=3000&pause=1000&center=true&lines=web+development;compiler+construction;game+development">
+</p>
 
 ### :chart_with_upwards_trend: Github Stats
 [![GitHub Trophys](https://github-profile-trophy.vercel.app/?username=FrederikTobner&theme=dracula)
