@@ -40,16 +40,9 @@ I'm a software engineer located in Ulm, Germany.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
- ### My Interests
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&color=5C00F7&height=40&duration=3000&pause=1000&center=true&lines=web+development;compiler+construction;game+development">
-</p>
-
 ### :chart_with_upwards_trend: Github Stats
-[![GitHub Trophys](https://github-profile-trophy.vercel.app/?username=FrederikTobner&theme=dracula)
 
 [![Frederik's Github Stats](https://github-readme-stats.vercel.app/api?username=FrederikTobner&count_private=true&theme=dracula&show_icons=true%card_width=10px)](https://github.com/FrederikTobner)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrederikTobner&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Badri Vishal's github activity graph](https://activity-graph.herokuapp.com/graph?username=FrederikTobner&theme=dracula)](https://github.com/FrederikTobner/github-readme-activity-graph)
