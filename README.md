@@ -23,5 +23,5 @@ I'm a software development apprentice located in Ulm, Germany.
 
 [![GitHub stats](https://github-readme-stats-frederiktobner.vercel.app/api?username=FrederikTobner&theme=dracula)](https://github.com/FrederikTobner)
  
-[![Top Langs](https://github-readme-stats-frederiktobner.vercel.app/api/top-langs/?username=FrederikTobner&layout=compact&theme=dracula)](https://github.com/FrederikTobner)
+[![Top Langs](https://github-readme-stats-frederiktobner.vercel.app/api/top-langs/?username=FrederikTobner&layout=pie&theme=dracula)](https://github.com/FrederikTobner)
 
