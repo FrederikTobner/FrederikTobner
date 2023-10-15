@@ -13,7 +13,7 @@
 
 ### About me
 
-I'm a software development apprentice located in Ulm, Germany.
+I'm a software developer located in Ulm, Germany.
 
 - 🔭 I’m currently working on [Cellox](https://github.com/FrederikTobner/Cellox), a simple scripting language based on [lox](https://craftinginterpreters.com/the-lox-language.html)
 - 🌱 I’m currently learning how compiler construction works
