@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">  
-<img src="https://img.shields.io/badge/age-27-blue">
+<img src="https://img.shields.io/badge/age-28-blue">
 <a href="mailto:f.tobner@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f.tobner@gmail.com" alt="mailto:f.tobner@gmail.com">
 </p>
@@ -15,13 +15,13 @@
 
 I'm a software developer located in Ulm, Germany.
 
-- 🔭 I’m currently working on [Cellox](https://github.com/FrederikTobner/Cellox), a simple scripting language based on [lox](https://craftinginterpreters.com/the-lox-language.html)
+- 🔭 I’m currently working on [cpp-lox](https://github.com/FrederikTobner/cpp-lox), a simple scripting language based on [lox](https://craftinginterpreters.com/the-lox-language.html)
 - 🌱 I’m currently learning how compiler construction works
 - ⌨️ I like system programming languages, especially C
 
 ### :chart_with_upwards_trend: Github Stats
 
-[![GitHub stats](https://github-readme-stats-frederiktobner.vercel.app/api?username=FrederikTobner&theme=dracula)](https://github.com/FrederikTobner)
+[![GitHub stats](https://github-readme-stats-beryl-phi.vercel.app/api?username=FrederikTobner&theme=dracula)](https://github.com/FrederikTobner)
  
-[![Top Langs](https://github-readme-stats-frederiktobner.vercel.app/api/top-langs/?username=FrederikTobner&layout=pie&theme=dracula)](https://github.com/FrederikTobner)
+[![Top Langs](https://github-readme-stats-beryl-phi.vercel.app/api/top-langs/?username=FrederikTobner&layout=pie&theme=dracula)](https://github.com/FrederikTobner)
 
