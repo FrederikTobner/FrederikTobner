@@ -1,4 +1,4 @@
- <h1 align="center">Hi:wave:, I'm Frederik <width="30px"></h1>
+ <h1 align="center">Hi :wave:, I'm Frederik <width="30px"></h1>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width="200"/>
