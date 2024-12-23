@@ -15,8 +15,7 @@
 
 I'm a software developer located in Ulm, Germany.
 
-- 🔭 I’m currently working on [Cellox](https://github.com/FrederikTobner/Cellox), a simple scripting language based on [lox](https://craftinginterpreters.com/the-lox-language.html)
-- 🌱 I’m currently learning how compiler construction works
+- 🌱 I’m currently studying the LLVM compiler development framework
 - ⌨️ I like system programming languages, especially C
 
 ### :chart_with_upwards_trend: Github Stats
