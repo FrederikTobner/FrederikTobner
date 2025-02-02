@@ -22,5 +22,5 @@ I'm a software developer located in Ulm, Germany.
 
 [![GitHub stats](https://github-readme-stats-beryl-phi.vercel.app/api?username=FrederikTobner&theme=dracula)](https://github.com/FrederikTobner)
  
-[![Top Langs](https://github-readme-stats-beryl-phi.vercel.app/api/top-langs/?username=FrederikTobner&layout=pie&theme=dracula)](https://github.com/FrederikTobner)
+[![Top Langs](https://github-readme-stats-beryl-phi.vercel.app/api/top-langs/?username=FrederikTobner&layout=pie&langs_count=16&theme=dracula)](https://github.com/FrederikTobner)
 
