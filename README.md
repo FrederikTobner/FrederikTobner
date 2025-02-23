@@ -8,6 +8,10 @@
 <img src="https://img.shields.io/badge/age-28-blue">
 <a href="mailto:f.tobner@gmail.com">
 <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:f.tobner@gmail.com" alt="mailto:f.tobner@gmail.com">
+</a>
+<a href="https://www.xing.com/profile/Frederik_Tobner">
+<img src="https://img.shields.io/badge/xing-profile?logo=xing&link=https%3A%2F%2Fwww.xing.com%2Fprofile%2FFrederik_Tobner" alt="Xing profile">
+</a>
 </p>
 
 
