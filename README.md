@@ -18,7 +18,7 @@
 ### About me
 
 I'm a software developer with a passion for Compiler Construction
-- 🌱 I’m currently studying the LLVM compiler development framework
+- 🌱 I’m currently studying kernel development
 - ⌨️ I like system programming languages, especially C
 
 ### :chart_with_upwards_trend: Github Stats
