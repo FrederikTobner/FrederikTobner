@@ -23,7 +23,7 @@ I'm a software developer with a passion for Compiler Construction
 
 ### :chart_with_upwards_trend: Github Stats
 
-[![GitHub stats](https://github-readme-stats-beryl-phi.vercel.app/api?username=FrederikTobner&theme=dracula)](https://github.com/FrederikTobner)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=FrederikTobner&theme=dracula)](https://github.com/FrederikTobner)
  
-[![Top Langs](https://github-readme-stats-beryl-phi.vercel.app/api/top-langs/?username=FrederikTobner&layout=pie&langs_count=16&theme=dracula)](https://github.com/FrederikTobner)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=FrederikTobner&layout=pie&langs_count=16&theme=dracula)](https://github.com/FrederikTobner)
 
