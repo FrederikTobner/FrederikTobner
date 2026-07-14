@@ -18,12 +18,10 @@
 ### About me
 
 I'm a software developer with a passion for Compiler Construction
-- 🌱 I’m currently studying kernel development
-- ⌨️ I like system programming languages, especially C
+- I’m currently studying kernel development
+- I like system programming languages, especially C
 
-### :chart_with_upwards_trend: Github Stats
-
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=FrederikTobner&theme=dracula)](https://github.com/FrederikTobner)
+###  Github Stats
  
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=FrederikTobner&layout=pie&langs_count=16&theme=dracula)](https://github.com/FrederikTobner)
 
