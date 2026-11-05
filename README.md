@@ -22,8 +22,8 @@ I'm a software developer with a passion for Compiler Construction
 - I like system programming languages, especially C
 
 ###  Github Stats
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=FrederikTobner&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=dracula)
+
  
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=FrederikTobner&layout=pie&langs_count=16&theme=dracula)](https://github.com/FrederikTobner)
-
-[![My GitHub stats](https://github-stats-extended.vercel.app/api?username=FrederikTobner&theme=dracula)](https://github.com/stats-organization/github-stats-extended)
-
